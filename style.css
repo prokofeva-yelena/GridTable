@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: rgb(239, 197, 211);
+}
+.header1{
+    font-family: 'Tahoma';
+    color: rgb(247, 137, 137);
+}
+.header2{
+    text-align: center;
+    font-weight: 700;
+    margin: 10px 0px 30px 0px;
+}
+.table{
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid gray;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid #7f7f7f;
+}
+
+table tr, td, th {
+    border: 1px solid #7f7f7f;
+}
+
+table td, th {
+    padding: 10px;
+}
+
+table th {
+    text-transform: uppercase;
+}
